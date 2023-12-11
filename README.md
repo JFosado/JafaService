@@ -12,7 +12,7 @@ En desarrollo.
 2. Ingresa al directorio: `cd tu-JafaService`
 3. Instala las dependencias: `npm install`
 
-##Uso
+## Uso
 1. Crea una base de datos en tu equipo.
 2. Configura el archivo .env con los requisitos para la conexión en MySQL: `PORT, USER, DB_NAME, HOST
 3. Ejecuta el comando server: `npm run server`
